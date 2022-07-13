@@ -74,7 +74,7 @@ The easiest way to host this bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/jaabirosman/rib"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
-## Deploy To Rialway
+##  Deploy To Rialway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_5Kf3Z?referralCode=osmani)
 
